@@ -2,7 +2,7 @@
 A feature rich and easy to use Windows optimizer
 
   -Key Features:
-Turn off Windows telemetry, Cortana, and more
+-Turn off Windows telemetry, Cortana, and more
 Disable Office telemetry (works with Office 2016 or newer)
 Stop automatic Windows 10/11 updates
 Download multiple useful apps quickly
