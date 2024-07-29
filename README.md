@@ -35,4 +35,4 @@ Can run on Windows Server 2008, 2012, 2016, 2019, 2022 using /unsafe switch
 
     -How to use  
 Download the code by clicking the green code button then clicking download zip  
-You can use the compiled.exe(no setup) or unzip the source and build with Visual Studio 2019 or later  
+You can use the compiled.exe(no setup) from the releases section or download the source and build with Visual Studio 2019 or later  
