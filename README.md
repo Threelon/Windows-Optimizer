@@ -29,7 +29,7 @@ Define custom commands for the run dialog
 Support silent runs using a template file  
   
     -Compatibility  
-Requires .NET Framework 4.8.1  
+Requires .NET Framework 4.8.1 (comes prepackaged with the compiled version)  
 Compatible with Windows 7, 8, 8.1, 10, 11  
 Can run on Windows Server 2008, 2012, 2016, 2019, 2022 using /unsafe switch  
 
